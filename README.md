@@ -18,6 +18,9 @@
     <a href="https://instagram.com/bernardovazmelo" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-@bernardovazmelo-05122A?style=flat&logo=instagram" alt="instagram"/>
     </a>
+    <a href="https://frontendmentor.io/profile/bernardovazm" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-bernardovazm-05122A?style=flat&logo=frontendmentor" alt="frontendmentor"/>
+    </a>
 </p>
 
 <h3>🐱‍💻 GitHub Info</h3>

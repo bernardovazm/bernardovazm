@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=higordiasz&color=red)
+![](https://komarev.com/ghpvc/?username=bernardovazm&color=red)
 
 ## Hey there! I'm Bernardo Vaz! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 

@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=higordiasz&color=red)
+
 ## Hey there! I'm Bernardo Vaz! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 <p align="left">

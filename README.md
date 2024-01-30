@@ -1,16 +1,43 @@
-### Hi there 👋
+## Hey there! I'm Bernardo Vaz! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-<!--
-**bernardovazm/bernardovazm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+    <a href="https://linkedin.com/in/bernardovazm/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-Bernardo_Vaz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    </a>
+    <a href="https://app.rocketseat.com.br/me/bernardo-vaz-00890" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-Bernardo_Vaz-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" alt="rocketseat"/>
+    </a>
+    <a href="https://github.com/bernardovazm" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-bernardovazm-05122A?style=flat&logo=github" alt="github"/> 
+    </a>
+    <a href="https://codewars.com/users/bernardovazm" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-bernardovazm-05122A?style=flat&logo=codewars" alt="codewars"/>
+    </a>
+    <a href="https://instagram.com/bernardovazmelo" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-@bernardovazmelo-05122A?style=flat&logo=instagram" alt="instagram"/>
+    </a>
+</p>
 
-Here are some ideas to get you started:
+<h3>🐱‍💻 GitHub Info</h3>
+<div align="center">
+    <!-- 
+        My colleague Rafael taught me this, so check out his github also:
+        https://github.com/rafaelpapastamatiou
+    -->
+    <img
+        height="160"
+        align="center"
+        src="https://github-readme-stats-ochre-seven.vercel.app/api?username=bernardovazm&hide=contribs,issues&count_private&show_icons=true&theme=github_dark"
+    />
+    <img
+        height="160"
+        align="center"
+        src="https://github-readme-stats-xnkv.vercel.app/api/top-langs/?username=bernardovazm&layout=compact&theme=github_dark&langs_count=10"
+    />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="margin: 40px 0;">
+
+<h3 style="border: none !important">🖥 Skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,ts,python,mysql,nodejs,git,github,vscode,php,cs,java,dotnet,ai,figma,ae,ps&perline=50&theme=dark)](https://skillicons.dev)

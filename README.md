@@ -43,6 +43,6 @@
 
 <div style="margin: 40px 0;">
 
-<h3 style="border: none !important">🖥 Skills</h3>
+<h3>🎯 Skills</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,ts,python,mysql,nodejs,git,github,vscode,php,cs,java,dotnet,ai,figma,ae,ps&perline=50&theme=dark)](https://skillicons.dev)

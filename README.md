@@ -25,10 +25,6 @@
 
 <h3>🐱‍💻 GitHub Info</h3>
 <div align="center">
-    <!-- 
-        My colleague Rafael taught me this, so check out his github also:
-        https://github.com/rafaelpapastamatiou
-    -->
     <img
         height="160"
         align="center"

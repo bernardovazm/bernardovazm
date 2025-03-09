@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=bernardovazm&abbreviated=true&base=100&color=05122A)
 
-## Hi there! I'm Bernardo Vaz! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+## Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 <p align="left">
     <a href="https://linkedin.com/in/bernardovazm/" target="_blank">

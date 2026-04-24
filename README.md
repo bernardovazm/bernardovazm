@@ -12,7 +12,7 @@
 />
   <img
     height="150px"
-    src="https://github-readme-stats-xnkv.vercel.app/api/top-langs/?username=bernardovazm&layout=compact&hide_title=true&theme=github_dark&langs_count=10&hide_border=true"
+    src="https://github-readme-stats-ochre-seven.vercel.app/api/top-langs/?username=bernardovazm&layout=compact&hide_title=true&theme=github_dark&langs_count=10&hide_border=true"
   />
 </p>
 
